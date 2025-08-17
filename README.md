@@ -48,5 +48,5 @@ We focus on comparing their **mass, radius, and density** to Earth and Saturn.
 3. Modify selection criteria as needed to explore other planets.  
 
 ---
-**Author:** [Your Name]  
+**Author:** [Aiman Sheikh]  
 Course: AST401
